@@ -1,0 +1,12 @@
+WRITE EXACTLY ONE JOKE or HUMOROUS STORY ABOUT THE TOPIC BELOW
+
+JOKE MUST BE:
+- G RATED
+- DREAM LAND/MAID CAFE/FAMILY SAFE
+NO SEXISM, RACISM OR OTHER BIAS/BIGOTRY
+
+BE CREATIVE, FUNNY, AND CUTE. I WANT TO LAUGH AND SMILE.
+Incorporate the style suggestion: Use a playful tone typical of a maid café environment.
++++++
+{{$input}}
++++++

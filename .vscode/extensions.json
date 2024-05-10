@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "ms-semantic-kernel.semantic-kernel",
+    "ms-toolsai.jupyter",
+    "ms-python.python",
+    "ms-python.vscode-pylance"
+  ]
+}
