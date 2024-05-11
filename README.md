@@ -1,6 +1,6 @@
 # Maid Cafe Copilot with Semantic Kernel
 
-![Maid Cafe AI Copilot Assistant](https://raw.githubusercontent.com/antronic/maid_semantic_kernel/main/images/maid-copilot-semantic-kernel.png)
+![Maid Cafe AI Copilot Assistant](https://raw.githubusercontent.com/antronic/maid_semantic_kernel/main/images/maid-copilot-semantic-kernel-2.png)
 
 The Maid Cafe AI Copilot Assistant which built with Semantic Kernel.
 The Maid Cafe AI Copilot Assistant is a demo project that uses the Semantic Kernel to demonstrate and provide the talking script for the Maid in various situations.
